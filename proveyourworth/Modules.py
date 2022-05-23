@@ -1,4 +1,4 @@
-import requests, os, urllib
+import requests, os
 from bs4 import BeautifulSoup
 from PIL import Image, ImageDraw, ImageFont
 
